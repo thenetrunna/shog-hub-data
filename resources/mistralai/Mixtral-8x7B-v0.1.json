@@ -1,0 +1,8 @@
+{
+  "shoggoth_id": "SHOG5e066c60d89d904db46c3bf577661040578a223a5a39ba3fd23ff091549767f0",
+  "namespace": "mistralai",
+  "resource": "Mixtral-8x7B-v0.1",
+  "label": "mixtral-8x7b-v0.1.Q4_K_M.gguf",
+  "is_model": true,
+  "size": "25 GB"
+}

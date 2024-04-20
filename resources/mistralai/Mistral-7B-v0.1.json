@@ -1,0 +1,8 @@
+{
+  "shoggoth_id": "SHOGce6253d2e91adea0c35924b38411b0434fa18fcb90c52980ce68187dbcbbe40c",
+  "namespace": "mistralai",
+  "resource": "Mistral-7B-v0.1",
+  "label": "mistral-7b-v0.1.Q4_K_M.gguf",
+  "is_model": true,
+  "size": "4.1 GB"
+}

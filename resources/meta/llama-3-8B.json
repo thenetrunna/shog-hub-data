@@ -1,0 +1,8 @@
+{
+  "shoggoth_id": "SHOGb3413ff367d0c568d1ebb06faa6d1e44c3a7fc2ad8eea40b1685788ce4f90e3e",
+  "namespace": "meta",
+  "resource": "llama-3-8B",
+  "label": "llama-3-8B.Q4_K_M.gguf",
+  "is_model": true,
+  "size": "4.6 GB"
+}

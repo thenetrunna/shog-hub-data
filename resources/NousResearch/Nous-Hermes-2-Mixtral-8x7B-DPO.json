@@ -1,0 +1,8 @@
+{
+  "shoggoth_id": "SHOG4fa40a24ea162f40abe41f2f0f3e942aa1da164a11b2a3af15d3f1b01c13913c",
+  "namespace": "NousResearch",
+  "resource": "Nous-Hermes-2-Mixtral-8x7B-DPO",
+  "label": "nous-hermes-2-mixtral-8x7b-dpo.Q4_K_M.gguf",
+  "is_model": true,
+  "size": "27 GB"
+}

@@ -1,0 +1,8 @@
+{
+  "shoggoth_id": "SHOG3f99518c1e2c1b2cee14c3cd7c110358ceb89cf2be0be0626d11ebd8571ff0ff",
+  "namespace": "NousResearch",
+  "resource": "Nous-Hermes-2-Mistral-7B-DPO",
+  "label": "nous-hermes-2-mistral-7b-dpo.Q4_K_M.gguf",
+  "is_model": true,
+  "size": "4.1 GB"
+}
