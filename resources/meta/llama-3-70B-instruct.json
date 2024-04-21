@@ -1,0 +1,8 @@
+{
+  "shoggoth_id": "SHOGdf98536015bfe4c8f3587604e46ac6bdd39875679f2e3e1f2e28ac20f3a78c2b",
+  "namespace": "meta",
+  "resource": "llama-3-70B-Instruct",
+  "label": "llama-3-70B-instruct.Q4_K_M.gguf",
+  "is_model": true,
+  "size": "40 GB"
+}
