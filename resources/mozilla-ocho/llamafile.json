@@ -1,6 +1,6 @@
 {
   "shoggoth_id": "SHOGc3ab15a61e936a2e7340c91757c8265747636f3bfb965f60dcaf74f2f11296c6",
-  "namespace": "Mozilla-Ocho",
+  "namespace": "mozilla-ocho",
   "resource": "llamafile",
   "label": "llamafile-0.7.zip",
   "is_code": true,
