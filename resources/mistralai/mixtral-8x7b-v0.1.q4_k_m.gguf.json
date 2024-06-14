@@ -1,0 +1,15 @@
+{
+  "shoggoth_id": "SHOG20c4e05367ff9ea82faaa2ce67d7506ba6a48f98b1daab2f780188c1072c8d2d",
+  "namespace": "mistralai",
+  "name": "mixtral-8x7b-v0.1.q4_k_m.gguf",
+  "label": "mixtral-8x7b-v0.1.q4_k_m.gguf",
+  "category": "Model",
+  "size": 26441532864,
+  "torrent": "magnet:?xt=urn:btih:70a1daa1d35bbc0a23d43d71d80da80ec883d4ce",
+  "tags": ["gguf", "mistral", "pretrained", "llm", "text generation", "mixture of experts"],
+  "papers": [],
+  "datasets": [],
+  "libraries": ["pytorch/pytorch", "huggingface/transformers"],
+  "time_published": 1701997200000,
+  "alternative_base": "https://huggingface.co/TheBloke/Mixtral-8x7B-v0.1-GGUF"
+}

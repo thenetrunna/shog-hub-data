@@ -1,0 +1,16 @@
+ 
+{
+  "shoggoth_id": "SHOGa9ff841fd2b1dc0edd7e4c9742d3d96bbb2125d5080e9e00d13e6e46a072c5d4",
+  "namespace": "mistralai",
+  "name": "mistral-7b-v0.1.q4_k_m.gguf",
+  "label": "mistral-7b-v0.1.q4_k_m.gguf",
+  "category": "Model",
+  "size": 4368438912,
+  "torrent": "magnet:?xt=urn:btih:7af30ea2634c17d5c2dcd1701c386cba45bdb856",
+  "tags": ["gguf", "mistral", "pretrained", "llm", "text generation"],
+  "papers": ["mistralai/mistral-7b-paper"],
+  "datasets": [],
+  "libraries": ["pytorch/pytorch", "huggingface/transformers"],
+  "time_published": 1695772800000,
+  "alternative_base": "https://huggingface.co/TheBloke/Mistral-7B-v0.1-GGUF"
+}

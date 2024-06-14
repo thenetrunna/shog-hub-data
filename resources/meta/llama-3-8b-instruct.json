@@ -1,8 +1,0 @@
-{
-  "shoggoth_id": "SHOG57b26bac2df51111affec600077708de06133b8f49e697723672657c7cbe3b9c",
-  "namespace": "meta",
-  "resource": "llama-3-8B-Instruct",
-  "label": "llama-3-8B-instruct.Q4_K_M.gguf",
-  "is_model": true,
-  "size": "4.6 GB"
-}

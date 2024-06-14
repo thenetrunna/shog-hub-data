@@ -1,8 +1,0 @@
-{
-  "shoggoth_id": "SHOGcd58120326971c71c0590f6b7084a0744e287ce9c67275d8b4bf34a5947d950b",
-  "namespace": "teknium",
-  "resource": "OpenHermes-2.5-Mistral-7B",
-  "label": "openhermes-2.5-mistral-7b.Q4_K_M.gguf",
-  "is_model": true,
-  "size": "4.1 GB"
-}

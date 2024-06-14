@@ -1,0 +1,4 @@
+{
+    "name": "Best LLM",
+   "options": [{"namespace": "meta", "name": "llama-7b"}, {"namespace": "meta", "name": "llama-2-7b"}, {"namespace": "mistralai", "name": "mixtral-8x7b"}, {"namespace": "mistralai", "name": "mistral-7b"}, {"namespace": "meta", "name": "llama-3-8b"}]
+}
