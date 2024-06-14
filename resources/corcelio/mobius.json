@@ -1,0 +1,15 @@
+{
+  "shoggoth_id": "SHOGe5d18a870a5674a050f1512730b1f99d7060fc39356a41d60bf0f21e8f3baa1b",
+  "namespace": "corcelio",
+  "name": "mobius",
+  "label": "mobius",
+  "category": "Model",
+  "size": 69482341596,
+  "torrent": "magnet:?xt=urn:btih:cc4cc0d94b9cfef08f94027c8c066d0aa821e898",
+  "tags": ["corcelio", "text to image", "image generation", "StableDiffusionXLPipeline"],
+  "papers": [],
+  "datasets": [],
+  "libraries": ["huggingface/diffusers"],
+  "time_published": 1717113600000,
+  "alternative_base": "https://huggingface.co/Corcelio/mobius"
+}

@@ -1,0 +1,15 @@
+{
+  "shoggoth_id": "SHOG582c01bcb3a73c905a9ded21bec2fe3d506a8ca941df29f25d7d6bf4d382de75",
+  "namespace": "meta",
+  "name": "llama-3-70b.q4_k_m.gguf",
+  "label": "llama-3-70b.q4_k_m.gguf",
+  "category": "Model",
+  "size": 42520392768,
+  "torrent": "magnet:?xt=urn:btih:18bc5b896f9d72bc71c328004eea25737961cc2e",
+  "tags": ["gguf", "meta", "70B", "llama", "llama-3", "llama3", "facebook", "pretrained", "llm", "text generation"],
+  "papers": [],
+  "datasets": [],
+  "libraries": ["pytorch/pytorch", "huggingface/transformers"],
+  "time_published": 1713398400000,
+  "alternative_base": "https://huggingface.co/JaaackXD/Llama-3-70B-GGUF"
+}

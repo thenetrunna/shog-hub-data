@@ -1,0 +1,15 @@
+{
+  "shoggoth_id": "SHOG85855318fdf1c9b1d53e62e41f736d6d7da347b35af76bdb323bb784b643bac2",
+  "namespace": "meta",
+  "name": "llama-3-8b.q4_k_m.gguf",
+  "label": "llama-3-8b.q4_k_m.gguf",
+  "category": "Model",
+  "size": 4921246944,
+  "torrent": "magnet:?xt=urn:btih:60e612d12170a8ccf60bd4a870afd762270850bd",
+  "tags": ["gguf", "meta", "llama", "llama-3", "8B", "llama3", "facebook", "pretrained", "llm", "text generation"],
+  "papers": [],
+  "datasets": [],
+  "libraries": ["pytorch/pytorch", "huggingface/transformers"],
+  "time_published": 1713398400000,
+  "alternative_base": "https://huggingface.co/QuantFactory/Meta-Llama-3-8B-GGUF"
+}

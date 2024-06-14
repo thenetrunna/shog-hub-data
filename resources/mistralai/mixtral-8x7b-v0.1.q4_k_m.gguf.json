@@ -6,7 +6,7 @@
   "category": "Model",
   "size": 26441532864,
   "torrent": "magnet:?xt=urn:btih:70a1daa1d35bbc0a23d43d71d80da80ec883d4ce",
-  "tags": ["gguf", "mistral", "pretrained", "llm", "text generation", "mixture of experts"],
+  "tags": ["gguf", "mixtral", "MOE", "mistral", "7B", "8x7B", "pretrained", "llm", "text generation", "mixture of experts"],
   "papers": [],
   "datasets": [],
   "libraries": ["pytorch/pytorch", "huggingface/transformers"],

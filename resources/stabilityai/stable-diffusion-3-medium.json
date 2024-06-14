@@ -1,0 +1,15 @@
+{
+  "shoggoth_id": "SHOG689e24b4773c8312e71da1c1f294e4c732e0b9cf882a7234ad2a4c5c1a3646b9",
+  "namespace": "stabilityai",
+  "name": "stable-diffusion-3-medium",
+  "label": "stable-diffusion-3-medium",
+  "category": "Model",
+  "size": 31523180494,
+  "torrent": "magnet:?xt=urn:btih:1af24d3d95efea4e258a372a55a23db63fec42b3",
+  "tags": ["stability", "stabilityai", "stable diffusion", "text to image", "image generation"],
+  "papers": ["stabilityai/stable-diffusion"],
+  "datasets": [],
+  "libraries": ["huggingface/diffusers"],
+  "time_published": 1718150400000,
+  "alternative_base": "https://huggingface.co/stabilityai/stable-diffusion-3-medium"
+}

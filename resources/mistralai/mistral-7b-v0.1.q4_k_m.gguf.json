@@ -7,7 +7,7 @@
   "category": "Model",
   "size": 4368438912,
   "torrent": "magnet:?xt=urn:btih:7af30ea2634c17d5c2dcd1701c386cba45bdb856",
-  "tags": ["gguf", "mistral", "pretrained", "llm", "text generation"],
+  "tags": ["gguf", "mistral", "7B", "pretrained", "llm", "text generation"],
   "papers": ["mistralai/mistral-7b-paper"],
   "datasets": [],
   "libraries": ["pytorch/pytorch", "huggingface/transformers"],

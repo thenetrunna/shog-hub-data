@@ -1,0 +1,15 @@
+{
+  "shoggoth_id": "SHOG8f61752013b4081b2846a0064436926be64141862fdd00874b63a1312d7172d9",
+  "namespace": "2noise",
+  "name": "ChatTTS",
+  "label": "ChatTTS",
+  "category": "Model",
+  "size": 2174181170,
+  "torrent": "magnet:?xt=urn:btih:e2a1dfb7568fa5d41fd11d74a242fdc08c950f93",
+  "tags": ["text to audio", "2noise"],
+  "papers": [],
+  "datasets": [],
+  "libraries": [],
+  "time_published": 1716508800000,
+  "alternative_base": "https://huggingface.co/2Noise/ChatTTS"
+}
