@@ -1,0 +1,15 @@
+{
+  "shoggoth_id": "SHOG4f2b4e9a6f4d26cc8f95fa146f9c7b786efade17550d55e860c7fe3a54b2e90e",
+  "namespace": "pytorch",
+  "name": "pytorch",
+  "label": "pytorch-v2.3.1",
+  "category": "Code",
+  "size": 235306123,
+  "torrent": "magnet:?xt=urn:btih:5fe7c3760f1ea9d0427218b46a619de064c8450d",
+  "tags": ["pytorch"],
+  "papers": [],
+  "datasets": [],
+  "libraries": [],
+  "time_published": 1717804800000,
+  "alternative_base": "https://github.com/pytorch/pytorch"
+}

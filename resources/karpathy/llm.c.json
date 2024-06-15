@@ -1,0 +1,15 @@
+{
+  "shoggoth_id": "SHOG3cb56e6cf99daee812d8adbca791a5f2df400931fad8cfec2a331aeab01235c0",
+  "namespace": "karpathy",
+  "name": "llm.c",
+  "label": "llm.c-0e69e3a",
+  "category": "Code",
+  "size": 2946534,
+  "torrent": "magnet:?xt=urn:btih:d100ab736b4953aebfe1bf54cd0133f9253a9bc5",
+  "tags": ["karpathy", "llm.c"],
+  "papers": [],
+  "datasets": [],
+  "libraries": [],
+  "time_published": 1712707200000,
+  "alternative_base": "https://github.com/karpathy/llm.c"
+}

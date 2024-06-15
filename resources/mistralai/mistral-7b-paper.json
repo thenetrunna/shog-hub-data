@@ -1,0 +1,15 @@
+{
+  "shoggoth_id": "SHOGcd271e35c980e8d9dd4223a70c10a00d1c6d89c2047c4f990b4d625e3b25079b",
+  "namespace": "mistralai",
+  "name": "mistral-7b-paper",
+  "label": "mistral-7b-paper.pdf",
+  "category": "Paper",
+  "size": 3749788,
+  "torrent": "magnet:?xt=urn:btih:bfd040f7dc2baf8c8cbe60152bc234340bf91ca4",
+  "tags": ["mistral", "mistral-7b"],
+  "papers": [],
+  "datasets": [],
+  "libraries": [],
+  "time_published": 1696896000000,
+  "alternative_base": "https://arxiv.org/abs/2310.06825"
+}

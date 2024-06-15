@@ -1,0 +1,15 @@
+{
+  "shoggoth_id": "SHOG9a5dbcd3c54df3688aa5df3c17c5925734cf8669f490e135bce5eaf6e3cd9e59",
+  "namespace": "ggerganov",
+  "name": "llama.cpp",
+  "label": "llama.cpp-b3151",
+  "category": "Code",
+  "size": 74664710,
+  "torrent": "magnet:?xt=urn:btih:469717981222f56d04c3d61aab075267181adf87",
+  "tags": ["llama.cpp", "ggerganov"],
+  "papers": [],
+  "datasets": [],
+  "libraries": [],
+  "time_published": 1718409600000,
+  "alternative_base": "https://github.com/ggerganov/llama.cpp"
+}
