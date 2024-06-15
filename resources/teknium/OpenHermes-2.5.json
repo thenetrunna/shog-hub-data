@@ -1,0 +1,15 @@
+{
+  "shoggoth_id": "SHOG9307092a3cc34c66c27501630e9ecd81be5908ca273468ceaf588fc38a813dbd",
+  "namespace": "teknium",
+  "name": "OpenHermes-2.5",
+  "label": "OpenHermes-2.5",
+  "category": "Dataset",
+  "size": 3872917192,
+  "torrent": "magnet:?xt=urn:btih:e6f2fee7ea7f42ae44fde049af8df5f488d8e56d",
+  "tags": ["distillation", "compilation", "synthetic", "dataset"],
+  "papers": [],
+  "datasets": [],
+  "libraries": [],
+  "time_published": 1706659200000,
+  "alternative_base": "https://huggingface.co/datasets/teknium/OpenHermes-2.5"
+}

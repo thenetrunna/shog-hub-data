@@ -1,0 +1,15 @@
+{
+  "shoggoth_id": "SHOG3b2c28c0ab5d0f5284edee9c1a35ebfed39b606002c33a79e3d970ee1448459a",
+  "namespace": "allenai",
+  "name": "ai2_arc",
+  "label": "ai2_arc",
+  "category": "Dataset",
+  "size": 2879113,
+  "torrent": "magnet:?xt=urn:btih:da885784774a4b4cff781707c50b68ef6107f728",
+  "tags": ["allenai", "task", "dataset"],
+  "papers": [],
+  "datasets": [],
+  "libraries": [],
+  "time_published": 1640995200000,
+  "alternative_base": "https://huggingface.co/datasets/allenai/ai2_arc"
+}

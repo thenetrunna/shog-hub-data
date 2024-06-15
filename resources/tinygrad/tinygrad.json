@@ -1,0 +1,15 @@
+{
+  "shoggoth_id": "SHOG03a5b367363d23ef16683c2de8163144a48c5dbafac80d2a150cd1d66000bcd2",
+  "namespace": "tinygrad",
+  "name": "tinygrad",
+  "label": "tinygrad-v0.9.0",
+  "category": "Code",
+  "size": 12071081,
+  "torrent": "magnet:?xt=urn:btih:0f87a42b18d43bdef7300ee909544939916e14a3",
+  "tags": ["tinygrad"],
+  "papers": [],
+  "datasets": [],
+  "libraries": [],
+  "time_published": 1717113600000,
+  "alternative_base": "https://github.com/tinygrad/tinygrad"
+}

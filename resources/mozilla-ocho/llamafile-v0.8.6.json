@@ -1,0 +1,15 @@
+{
+  "shoggoth_id": "SHOGaf09df936cd8a7dec529de9abaa404bfad80bef5da1dbcc2fa0642601808b8b6",
+  "namespace": "mozilla-ocho",
+  "name": "llamafile",
+  "label": "llamafile-v0.8.6",
+  "category": "Code",
+  "size": 9814420,
+  "torrent": "magnet:?xt=urn:btih:606b4dbb9393ae2bb8634030ab9668457c8f8508",
+  "tags": [],
+  "papers": [],
+  "datasets": [],
+  "libraries": [],
+  "time_published": 1718323200000,
+  "alternative_base": "https://github.com/Mozilla-Ocho/llamafile"
+}

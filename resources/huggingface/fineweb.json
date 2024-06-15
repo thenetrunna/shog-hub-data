@@ -1,0 +1,15 @@
+{
+  "shoggoth_id": "SHOG0d9d523ef8f1e01791c1f083fc8f93798905f56f1f609a8facf9237cce1647b7",
+  "namespace": "huggingface",
+  "name": "fineweb",
+  "label": "fineweb",
+  "category": "Dataset",
+  "size": 49478023249920,
+  "torrent": "magnet:?xt=urn:btih:250c115e9c4b96cfdb12e2cba86243ae3c276f0d",
+  "tags": ["fineweb", "dataset"],
+  "papers": [],
+  "datasets": [],
+  "libraries": [],
+  "time_published": 1717459200000,
+  "alternative_base": "https://huggingface.co/datasets/HuggingFaceFW/fineweb"
+}

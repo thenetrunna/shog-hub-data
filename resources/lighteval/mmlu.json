@@ -1,0 +1,15 @@
+{
+  "shoggoth_id": "SHOGd863ff9a1b009f5c8553f6b7b31eef71d84c204ddd17f5e0766892c545a189ba",
+  "namespace": "lighteval",
+  "name": "mmlu",
+  "label": "mmlu",
+  "category": "Dataset",
+  "size": 332720205,
+  "torrent": "magnet:?xt=urn:btih:d3a2d2271adb071f45ba18bedc4f40a4dc51d5a1",
+  "tags": ["mmlu", "dataset", "tasks"],
+  "papers": [],
+  "datasets": [],
+  "libraries": [],
+  "time_published": 1672531200000,
+  "alternative_base": "https://huggingface.co/datasets/lighteval/mmlu"
+}

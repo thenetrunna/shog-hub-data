@@ -1,0 +1,15 @@
+{
+  "shoggoth_id": "SHOGb9f0cca9417f8ce3a75249b634edd891506aff1ca60fccab97b2fdf0dea5525f",
+  "namespace": "openinterpreter",
+  "name": "01",
+  "label": "01-84d5b17",
+  "category": "Code",
+  "size": 177295298,
+  "torrent": "magnet:?xt=urn:btih:6ca0e63afb2b9e4c8294a42504cae2d48430451b",
+  "tags": ["open interpreter", "01"],
+  "papers": [],
+  "datasets": [],
+  "libraries": [],
+  "time_published": 1716249600000,
+  "alternative_base": "https://github.com/OpenInterpreter/01"
+}

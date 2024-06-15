@@ -1,0 +1,15 @@
+{
+  "shoggoth_id": "SHOGc0779d12572ec0980de9166f8e70bb06bf6c5a31cd57347aa6d43a25b7668aa2",
+  "namespace": "huggingface",
+  "name": "transformers",
+  "label": "transformers-v4.41.2",
+  "category": "Code",
+  "size": 80020031,
+  "torrent": "magnet:?xt=urn:btih:364be2f3e1e3bbca4e1a7f2cbe339494d31b925d",
+  "tags": ["transformers"],
+  "papers": [],
+  "datasets": [],
+  "libraries": [],
+  "time_published": 1718409600000,
+  "alternative_base": "https://github.com/huggingface/transformers"
+}

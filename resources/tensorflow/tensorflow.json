@@ -1,0 +1,15 @@
+{
+  "shoggoth_id": "SHOGf120ca31b35f2085aa33095051a0c5d731e937e9163a9768dd73e84313cd2d1c",
+  "namespace": "tensorflow",
+  "name": "tensorflow",
+  "label": "tensorflow-v2.16.1",
+  "category": "Code",
+  "size": 301436145,
+  "torrent": "magnet:?xt=urn:btih:7729763758f3411202635cad86061d117e2a543e",
+  "tags": ["tensorflow"],
+  "papers": [],
+  "datasets": [],
+  "libraries": [],
+  "time_published": 1709769600000,
+  "alternative_base": "https://github.com/tensorflow/tensorflow"
+}

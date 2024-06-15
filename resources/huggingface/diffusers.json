@@ -1,0 +1,15 @@
+{
+  "shoggoth_id": "SHOGa5c34c6c5eb8a3eec7fed807ff3bc8e7dad657ab79a058dbb8d3db996ed1cda6",
+  "namespace": "huggingface",
+  "name": "diffusers",
+  "label": "diffusers-v0.29.0",
+  "category": "Code",
+  "size": 25322944,
+  "torrent": "magnet:?xt=urn:btih:10ef671d9023d7d835bb661e82dc7661a75381a6",
+  "tags": ["diffusers"],
+  "papers": [],
+  "datasets": [],
+  "libraries": [],
+  "time_published": 1718236800000,
+  "alternative_base": "https://github.com/huggingface/diffusers"
+}
